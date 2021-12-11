@@ -6,3 +6,5 @@ azure-functions
 requests
 python-dotenv
 aiohttp
+pyodbc
+web3
