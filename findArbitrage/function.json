@@ -1,0 +1,11 @@
+{
+  "scriptFile": "find_arbitrage.py",
+  "bindings": [
+    {
+      "name": "mytimer",
+      "type": "timerTrigger",
+      "direction": "in",
+      "schedule": "0 */15 * * * *"
+    }
+  ]
+}
